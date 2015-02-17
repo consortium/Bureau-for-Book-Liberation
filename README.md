@@ -1,7 +1,7 @@
 # Bureau-for-Book-Liberation
 The Bureau for Book Liberation (`#bbl`) looks to free publications from the confines of the bound paper codex and monopolies of distribution. It seeks to establish new forms of reading and accessing information while envisioning alternatives to restrictive corporate copyright.
 
-## The `#bbl` serves two functions for a reusable framework: 
+## The #bbl serves two functions for a reusable framework: 
 * First, the experimentation with the design of the book in an imagined post/anti-copyright age and,
 * second, a technical open source framework for a fully digital and networked book.
 
