@@ -6,6 +6,8 @@ The Bureau for Book Liberation (`#bbl`) looks to free publications from the conf
 * second, a technical open source framework for a fully digital and networked book.
 
 ## Book Remixing: a workshop series
+The first event take place 21 Feb 2015, 17:00-19:00 at `A Public Library`, Berlin. Sign up here [http://www.apubliclibrary.org/event/book-remixing-with-the-bureau-for-book-liberation/](http://www.apubliclibrary.org/event/book-remixing-with-the-bureau-for-book-liberation/)
+
 The workshop is related to the Hybrid Publishing Consortium's research into open source software infrastructures for publishing.
 
 * Firstly 'Designing the Book of the Future', a reading experiences where transmedia references are immediately made available in a document—inline, in full, or with full media playback and with a full provenance. 
