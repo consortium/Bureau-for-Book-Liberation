@@ -58,3 +58,28 @@ cite {
 mark {
 	background-color:#c7f8ff;
 }
+
+/** Media Queries**/
+
+@media print {
+	body {
+		font-size:17px;
+		line-height: 22px;
+	}
+	section {
+		width: 90%;
+	}
+	mark {
+		text-decoration: underline;
+	}
+}
+
+@media all and (max-width: 860px) and (min-width: 520px)  { 
+	body {
+		font-size:17px;
+		line-height: 22px;
+	}
+	section {
+		width: 90%;
+	}
+}
