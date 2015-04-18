@@ -28,7 +28,7 @@ h2.chapter-number{
 	margin-bottom: 0;
 }
 
-h2.chapter-number + h2 {
+h2 + h2 {
 	margin-top: 0;
 }
 
