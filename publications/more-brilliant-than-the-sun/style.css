@@ -1,0 +1,40 @@
+body {
+		font-family: Georgia,Times,Times New Roman,serif; 
+		font-size: 17px;
+		line-height: 22px;
+		color: #222222;
+		background-color: #fbfbfb;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+	line-height: 1.3em;
+	width: 75%;
+}
+
+h1 {
+	margin-bottom: 2rem;
+}
+
+h2 {
+	margin-bottom: 1.5rem;
+	font-size: 1.5rem;
+}
+
+h3 {
+	margin-bottom: 1rem;
+	font-size: 1rem;
+}
+
+section {
+	width: 50%;
+	margin: 4rem auto;
+}
+
+p {
+	margin-bottom: 1.5rem;
+}
+
+mark {
+	background-color:#c7f8ff;
+}

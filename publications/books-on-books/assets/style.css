@@ -1,0 +1,60 @@
+@import url(http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic);
+
+body {
+		font-family: 'Crimson Text', Georgia, Cambria, 'Times New Roman', Times, serif; 
+		font-size: 21px;
+		line-height: 28px;
+		color: #222222;
+		background-color: #fbfbfb;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+	line-height: 1.3em;
+	width: 75%;
+}
+
+h1 {
+	font-size: 2rem;
+	margin-bottom: 4rem;
+}
+
+h2 {
+	margin-bottom: 1.5rem;
+	font-size: 1.3em;
+}
+
+h2.chapter-number{
+	margin-bottom: 0;
+}
+
+h2.chapter-number + h2 {
+	margin-top: 0;
+}
+
+h3 {
+	font-size: 1em;
+	margin-bottom: 0;
+	width: 100%;
+}
+
+section {
+	width: 50%;
+	margin: 4rem auto;
+}
+
+article {
+	margin: 0 0 4rem 0;
+}
+
+p {
+	margin: 0 0 1.5rem 0;
+}
+
+cite {
+	font-style: normal;
+}
+
+mark {
+	background-color:#c7f8ff;
+}
